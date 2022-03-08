@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alice Lego Fighter Beta
+* source:	https://sketchfab.com/3d-models/alice-lego-fighter-beta-5dc43eb5cfa64992a8951cead436a8c5
+* author:	AlexAdamGames (https://sketchfab.com/AlexAdamGames)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alice Lego Fighter Beta" (https://sketchfab.com/3d-models/alice-lego-fighter-beta-5dc43eb5cfa64992a8951cead436a8c5) by AlexAdamGames (https://sketchfab.com/AlexAdamGames) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

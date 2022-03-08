@@ -1,0 +1,11 @@
+Model Information:
+* title:	tea cups
+* source:	https://sketchfab.com/3d-models/tea-cups-526f9df1a1fe4d1da0298f25eac42518
+* author:	Solid  Polygons (https://sketchfab.com/freelancer.artist14)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tea cups" (https://sketchfab.com/3d-models/tea-cups-526f9df1a1fe4d1da0298f25eac42518) by Solid  Polygons (https://sketchfab.com/freelancer.artist14) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
