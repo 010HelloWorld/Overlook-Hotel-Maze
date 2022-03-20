@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alice In Wonderland Lego Figure
+* source:	https://sketchfab.com/3d-models/alice-in-wonderland-lego-figure-ec9fb988905f45d981c96149a177681e
+* author:	NotMyName1 (https://sketchfab.com/NotMyName1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alice In Wonderland Lego Figure" (https://sketchfab.com/3d-models/alice-in-wonderland-lego-figure-ec9fb988905f45d981c96149a177681e) by NotMyName1 (https://sketchfab.com/NotMyName1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

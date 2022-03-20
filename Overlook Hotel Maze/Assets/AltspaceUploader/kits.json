@@ -1,0 +1,25 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "1954230387588727315",
+            "Name": "le mirror",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1954230387588727315_le_mirror/Camera.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1954230387588727315_le_mirror/Plane.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
